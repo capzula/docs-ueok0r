@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-mo5ab4.kpktoto11ade.cyou/sitemap.xml
